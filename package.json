@@ -1,0 +1,25 @@
+{
+  "name": "employeemanagementsystem",
+  "version": "1.0.0",
+  "description": "Employee Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsepulveda/-EmployeeManagementSystem.git"
+  },
+  "author": "Jorge Sepulveda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgsepulveda/-EmployeeManagementSystem/issues"
+  },
+  "homepage": "https://github.com/jrgsepulveda/-EmployeeManagementSystem#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "sql": "^0.78.0"
+  }
+}
